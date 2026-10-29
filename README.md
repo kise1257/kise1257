@@ -1,17 +1,8 @@
-<!--
-  GitHub Profile README
-  Username: kise1257
-  Replace the project placeholders before publishing.
--->
-
 <div align="center">
-  
-## 👋 Hi, I'm Aung San Htut
-
-Computer Engineering Student @ KMITL 🇹🇭
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0B1B3A,75:312E81,100:06B6D4&height=220&section=header&text=AUNG%20SAN%20HTUT&fontSize=42&fontColor=E0F2FE&fontAlignY=35&animation=fadeIn&desc=COMPUTER%20ENGINEERING%20%7C%20KMITL&descSize=17&descAlignY=57&descColor=67E8F9" width="100%" alt="Cyber blue profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Exploring+Software+%26+Hardware;Building+Projects+One+Step+at+a+Time;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+%2B+Hardware;Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Improve;Turning+Ideas+Into+Projects" alt="Animated developer tagline" />
 </a>
 
 ## 🧑‍💻 About Me
@@ -34,18 +25,22 @@ I enjoy learning how software and hardware work together. I'm developing my prog
 Languages & Web Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kise1257&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=kise1257&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aungsanhtut) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kise1257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurasdev@gmail.com) 
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kise1257) 
+
+```text
+[ BUILD ]  [ LEARN ]  [ CREATE ]  [ IMPROVE ]
+```
+
+<sub>Thanks for visiting my profile. More projects and learning ahead.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=100&section=footer" width="100%" alt="Cyber-themed footer" />
 
