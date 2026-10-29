@@ -27,6 +27,16 @@ Languages & Web Technologies
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🎯 Current Focus
+
+Strengthening programming fundamentals with C++ and C#.
+
+Building practical software projects.
+
+Learning more about computer systems and hardware.
+
+Improving code quality and problem-solving skills.
+
 ## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aungsanhtut) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kise1257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurasdev@gmail.com) 
 
