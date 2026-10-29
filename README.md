@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0B1B3A,75:312E81,100:06B6D4&height=220&section=header&text=AUNG%20SAN%20HTUT&fontSize=42&fontColor=E0F2FE&fontAlignY=35&animation=fadeIn&desc=COMPUTER%20ENGINEERING%20%7C%20KMITL&descSize=17&descAlignY=57&descColor=67E8F9" width="100%" alt="Cyber blue profile banner" />
 
-<a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+%2B+Hardware;Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Improve;Turning+Ideas+Into+Projects" alt="Animated developer tagline" />
-</a>
 
 ## 🧑‍💻 About Me
 
